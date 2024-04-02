@@ -1,8 +1,8 @@
 app_name = "simple"
 app_title = "Simple"
 app_publisher = "apeksha"
-app_description = "simple api"
-app_email = "xyz"
+app_description = "api demo"
+app_email = "xyz@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>
