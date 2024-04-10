@@ -213,3 +213,10 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"simple.auth.validate"
 # ]
+
+
+doc_events = {
+    "Customer": {
+        "on_submit": "simple.simple.doctype.customers.customers.send_cust_id"
+    }
+}
